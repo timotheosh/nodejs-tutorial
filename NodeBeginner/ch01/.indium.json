@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "name": "ch01",
+      "type": "node",
+      "program": "node",
+      "args": "./app.js"
+    }
+  ]
+}
